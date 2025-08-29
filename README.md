@@ -20,7 +20,7 @@ Other: Git, Docker, SQL, MongoDB
 ## 🌐 Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sweety-dave-12a370166/">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/sweety-dave-12a370166/">
     <img alt="LinkedIn" src="https://img.icons8.com/color/24/linkedin.png"/>
   </a>
   &nbsp;&nbsp;
