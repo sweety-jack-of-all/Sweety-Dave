@@ -1,5 +1,5 @@
 Hi there 👋 I'm Sweety Dave
-🚀 Frontend Developer | Aspiring AI Engineer | Lifelong Learner
+🚀 Frontend Developer | Aspiring AI Engineer | Data Management
 
 I’m a developer passionate about building clean, scalable, and user-friendly applications while exploring how AI can transform everyday development. With experience in React.js, AngularJS, Node.js, and GraphQL, I enjoy turning complex problems into simple, elegant solutions.
 
